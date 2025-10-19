@@ -1,0 +1,23 @@
+{
+  "name": "ver5tappen",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/lazharichir/ver5stappen.com#readme",
+  "bugs": {
+    "url": "https://github.com/lazharichir/ver5stappen.com/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazharichir/ver5stappen.com.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "wrangler": "^4.43.0"
+  }
+}

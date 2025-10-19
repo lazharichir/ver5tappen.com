@@ -1,0 +1,15 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"compatibility_date": "2025-09-04",
+	"name": "ver5tappen",
+	"assets": {
+		"directory": "./",
+		"not_found_handling": "single-page-application"
+	},
+	"routes": [
+		{
+			"pattern": "ver5tappen.com",
+			"custom_domain": true
+		}
+	]
+}
